@@ -1,2 +1,9 @@
 [core]
     autostage = true
+    remote = myremote
+['remote "drive"']
+    url = gdrive://DVC_data
+    gdrive_acknowledge_abuse = true
+['remote "myremote"']
+    url = gdrive://1eG--WFjrcyKqPC7V8h6_SjMfKKZIV-6Y
+    gdrive_acknowledge_abuse = true
