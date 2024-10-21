@@ -1,0 +1,20 @@
+artifact_path: XGBoost - logloss
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 2.14.3
+model_size_bytes: 410718
+model_uuid: 9682e6890fa14de9a4870b2a1fa91186
+run_id: 0cf06dee31a74224a57d7d196bc7a70b
+utc_time_created: '2024-10-21 10:14:50.568376'

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/elisa/OneDrive/M%C3%81STER/TFM/VIU_TFM/notebooks/modeling/mlruns/430090828074940200/35d16f521c564d7d8ca947466dd609cb/artifacts
+deleted_time: 1729506072416
+end_time: 1729505687813
+entry_point_name: ''
+experiment_id: '430090828074940200'
+lifecycle_stage: deleted
+run_id: 35d16f521c564d7d8ca947466dd609cb
+run_name: XGBoost - class weigthing
+run_uuid: 35d16f521c564d7d8ca947466dd609cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729505681650
+status: 3
+tags: []
+user_id: elisa

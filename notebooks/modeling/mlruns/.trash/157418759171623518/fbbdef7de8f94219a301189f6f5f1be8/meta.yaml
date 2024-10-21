@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/elisa/OneDrive/M%C3%81STER/TFM/VIU_TFM/notebooks/modeling/mlruns/157418759171623518/fbbdef7de8f94219a301189f6f5f1be8/artifacts
+deleted_time: 1729505649294
+end_time: 1729505023031
+entry_point_name: ''
+experiment_id: '157418759171623518'
+lifecycle_stage: deleted
+run_id: fbbdef7de8f94219a301189f6f5f1be8
+run_name: XGBoost - class weighting
+run_uuid: fbbdef7de8f94219a301189f6f5f1be8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729505005211
+status: 3
+tags: []
+user_id: elisa

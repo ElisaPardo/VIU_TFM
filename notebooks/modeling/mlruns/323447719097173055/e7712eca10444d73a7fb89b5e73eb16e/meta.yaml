@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/elisa/OneDrive/M%C3%81STER/TFM/VIU_TFM/notebooks/modeling/mlruns/323447719097173055/e7712eca10444d73a7fb89b5e73eb16e/artifacts
+end_time: 1729527302734
+entry_point_name: ''
+experiment_id: '323447719097173055'
+lifecycle_stage: active
+run_id: e7712eca10444d73a7fb89b5e73eb16e
+run_name: SVM - linear
+run_uuid: e7712eca10444d73a7fb89b5e73eb16e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729505868380
+status: 3
+tags: []
+user_id: elisa

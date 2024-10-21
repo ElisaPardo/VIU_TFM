@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/elisa/OneDrive/M%C3%81STER/TFM/VIU_TFM/notebooks/modeling/mlruns/792648694325550120/a11555b0a9f545ffb5fb7a19652753aa/artifacts
+deleted_time: 1729504720776
+end_time: 1729455735668
+entry_point_name: ''
+experiment_id: '792648694325550120'
+lifecycle_stage: deleted
+run_id: a11555b0a9f545ffb5fb7a19652753aa
+run_name: XGBoost - mlogloss
+run_uuid: a11555b0a9f545ffb5fb7a19652753aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729455722708
+status: 3
+tags: []
+user_id: elisa
