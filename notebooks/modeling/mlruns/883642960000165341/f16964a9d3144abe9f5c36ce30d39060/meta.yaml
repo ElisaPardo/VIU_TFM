@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/elisa/OneDrive/M%C3%81STER/TFM/VIU_TFM/notebooks/modeling/mlruns/883642960000165341/f16964a9d3144abe9f5c36ce30d39060/artifacts
+end_time: 1732532203199
+entry_point_name: ''
+experiment_id: '883642960000165341'
+lifecycle_stage: active
+run_id: f16964a9d3144abe9f5c36ce30d39060
+run_name: XGBoost - mlogloss
+run_uuid: f16964a9d3144abe9f5c36ce30d39060
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732532195802
+status: 3
+tags: []
+user_id: elisa

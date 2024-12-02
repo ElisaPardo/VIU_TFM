@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/elisa/OneDrive/M%C3%81STER/TFM/VIU_TFM/notebooks/modeling/mlruns/883642960000165341/f52c05a3a62a4040a75ba0e0d03c8b6d/artifacts
+end_time: 1732532517239
+entry_point_name: ''
+experiment_id: '883642960000165341'
+lifecycle_stage: active
+run_id: f52c05a3a62a4040a75ba0e0d03c8b6d
+run_name: XGBoost - SMOTE
+run_uuid: f52c05a3a62a4040a75ba0e0d03c8b6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732532508829
+status: 3
+tags: []
+user_id: elisa
