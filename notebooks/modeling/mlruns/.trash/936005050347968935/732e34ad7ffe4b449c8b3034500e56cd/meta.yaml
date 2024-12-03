@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/elisa/OneDrive/M%C3%81STER/TFM/VIU_TFM/notebooks/modeling/mlruns/936005050347968935/732e34ad7ffe4b449c8b3034500e56cd/artifacts
+deleted_time: 1733243284023
+end_time: 1733243143948
+entry_point_name: ''
+experiment_id: '936005050347968935'
+lifecycle_stage: deleted
+run_id: 732e34ad7ffe4b449c8b3034500e56cd
+run_name: RandomForest - balanced
+run_uuid: 732e34ad7ffe4b449c8b3034500e56cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733243087892
+status: 3
+tags: []
+user_id: elisa
